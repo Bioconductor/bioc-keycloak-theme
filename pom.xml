@@ -3,13 +3,13 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>bioc.theme.app</groupId>
   <artifactId>bioc-theme</artifactId>
-  <version>VERSIONPLACE</version>
+  <version>1.0.0</version>
   <build>
     <plugins>
       <plugin>
         <groupId>bioc.theme.app</groupId>
         <artifactId>bioc-theme</artifactId>
-        <version>VERSIONPLACE</version>
+        <version>1.0.0</version>
         <configuration>
           <archive>
             <addMavenDescriptor>false</addMavenDescriptor>
