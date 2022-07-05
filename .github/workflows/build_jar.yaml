@@ -20,5 +20,5 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add ./packaged
-          git commit -am "Automated creation of .jar file"
+          git commit -m "Automated creation of .jar file"
           git push
