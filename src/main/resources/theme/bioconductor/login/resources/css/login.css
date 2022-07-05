@@ -1,7 +1,7 @@
 .login-pf body {
     background-size: cover;
     background: linear-gradient(0deg, rgba(135,177,63,1) 0%, rgba(255,255,255,1) 50%, rgba(26,129,194,1) 100%);
-    color: rgba(255, 255, 255, 1);
+    color: rgba(0, 0, 0, 1);
 }
 
 /*IE compatibility*/
